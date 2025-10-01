@@ -6,6 +6,7 @@
  */
 
 // shows conversion
+console.log("If a dog's weight is 34.5 kg, how many pounds is that?");
 console.log("34.5kg * 2.205 = " + String(34.5 * 2.205));
 
 console.log("\nDone");
